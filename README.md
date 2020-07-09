@@ -9,7 +9,7 @@ const BAKER_OF = "Preact";
 kindGuyHere();
 ``` 
 
-*📫 How to reach me: giulio.fagioli@gmail.com or on twitter at @giuliofagioli ( DM open )*<br>
+*📫 How to reach me: fagioli.giulio@gmail.com or on twitter at @giuliofagioli ( DM open )*<br>
 📨 If I can help you in any way, do not hesitate to contact me!
 
 <!--
