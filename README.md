@@ -1,10 +1,9 @@
 ### Hey, I'm Giulio!
 
 #### 📚 Computer Science @ University of Florence 
-#### 👨🏽‍💻 Frontend Developer @ Lotrèk 
+#### 👨🏽‍💻 Frontend Developer @ Sysdata S.p.A 
 
 ```javascript
-const LEARNING = "Javascript";
 const BAKER_OF = "Preact";
 kindGuyHere();
 ``` 
