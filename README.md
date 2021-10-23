@@ -1,6 +1,6 @@
 ### Hey, I'm Giulio!
 
-#### 📚 Computer Science @ University of Florence 
+#### 📚 Bachelor Degree - Computer Science @ University of Florence 
 #### 👨🏽‍💻 Frontend Developer @ Sysdata S.p.A 
 
 ```javascript
