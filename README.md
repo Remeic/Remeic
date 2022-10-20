@@ -1,12 +1,8 @@
 ### Hey, I'm Giulio!
 
 #### 📚 Bachelor Degree - Computer Science @ University of Florence 
-#### 👨🏽‍💻 Frontend Developer @ Sysdata S.p.A 
+#### 👨🏽‍💻 Software Engineering Specialist @ Illimity Bank 🏦
 
-```javascript
-const BAKER_OF = "Preact";
-kindGuyHere();
-``` 
 
 *📫 How to reach me: fagioli.giulio@gmail.com or on twitter at @giuliofagioli ( DM open )*<br>
 📨 If I can help you in any way, do not hesitate to contact me!
