@@ -1,7 +1,7 @@
 ### Hey, I'm Giulio!
 
 #### 📚 Bachelor Degree - Computer Science @ University of Florence 
-#### 👨🏽‍💻 Software Engineering Specialist @ Altermaind 🏦
+#### 👨🏽‍💻 Senior Software Engineer @ AideXa Bank 🏦
 
 
 *📫 How to reach me: fagioli.giulio@gmail.com or on twitter at @giuliofagioli ( DM open )*<br>
